@@ -16,8 +16,7 @@
 # School is why I have no time.
 # exit
 
-# real conversation example:
-# luisestevez@Luiss-MacBook-Air src % python3 assignment2.py
+# real conversation example (fictional conversation):
 # Hello, I am ELIZA.
 # > Hello Eliza my name is Lou.
 # Welcome. How are you doing? Can I help you with anything?
@@ -113,7 +112,6 @@ def discuss(user_in):
 
 
 # main loop
-
 done = False
 print("Hello, I am ELIZA.")
 
